@@ -1,0 +1,47 @@
+/* add your CSS here */
+img {
+	border-radius: 4px;
+}
+
+p.italic {
+	font-style: italic;
+}
+
+li span {
+	font-weight: bold;
+}
+
+ul.square {
+	list-style-type: square;
+}
+
+.background {
+	width: 300px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	background-image: url(sunny-flower.jpg);
+
+}
+
+hr {
+			border: none;
+			height: 2px;
+			color: #66AAFF;
+			background-color: #66AAFF;
+			margin-left: 20px;
+			margin-right: 20px;
+}
+
+h3 {
+			color: black;
+			text-transform: uppercase;
+			text-align: left;
+}
+
+.info {
+			box-sizing: border-box;
+			width: 300px;
+			border-radius: 3px;
+			
+}
